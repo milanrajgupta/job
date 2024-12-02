@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjobPortal=self.webpackChunkjobPortal||[]).push([[250],{2869:(u,a,o)=>{o.r(a),o.d(a,{CommonModuleModule:()=>E});var n=o(177),l=o(1531),_=o(4341),m=o(149),s=o(8699);let E=(()=>{class t{static{this.\u0275fac=function(M){return new(M||t)}}static{this.\u0275mod=s.$C({type:t})}static{this.\u0275inj=s.G2t({imports:[n.MD,l.m,_.YN,m.G]})}}return t})()}}]);
